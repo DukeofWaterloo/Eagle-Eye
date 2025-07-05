@@ -31,11 +31,12 @@
 
 ## 🖼️ Screenshots
 
-| Dashboard (Light) | Dashboard (Dark) |
+| Dashboard | Review Page |
 |-------------------|------------------|
-| ![Light](https://dummyimage.com/600x400/eee/222&text=Dashboard+Light) | ![Dark](https://dummyimage.com/600x400/222/eee&text=Dashboard+Dark) |
+| ![Dashboard](https://github.com/user-attachments/assets/55dbe9bd-31f1-446d-9d4e-acc44ded1e02) | ![Review Page](https://github.com/user-attachments/assets/7da61c5a-a847-4e12-9642-48f2f03c972c) |
 
 ---
+
 
 ## 🛠️ Tech Stack
 
