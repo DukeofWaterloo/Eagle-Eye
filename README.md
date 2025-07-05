@@ -103,4 +103,4 @@ Please open an issue to discuss your ideas or report bugs.
 
 ## 💡 Inspiration
 
-Built to help businesses save time, respond faster, and build better customer relationships—powered by the latest in AI.
+Built to help businesses save time, respond faster, and build better customer relationships - powered by the latest in AI.
