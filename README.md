@@ -87,31 +87,6 @@ Eagle Eye uses [Ollama](https://ollama.com/) for local LLM inference.
   ```
 - Configure the model name in `config.py` if needed
 
----
-
-## 🌓 Dark Mode
-
-Toggle dark mode with a single click!  
-Your preference is saved automatically.
-
----
-
-## 🧩 Project Structure
-
-```
-EAGLE EYE/
-  ├── app.py
-  ├── celery_worker.py
-  ├── config.py
-  ├── docker-compose.yml
-  ├── Dockerfile
-  ├── requirements.txt
-  ├── services/
-  ├── static/
-  ├── templates/
-```
-
----
 
 ## 🛡️ Security & Scalability
 
@@ -119,20 +94,12 @@ EAGLE EYE/
 - Background task processing (Celery)
 - Scalable Dockerized architecture
 
----
 
 ## 🙌 Contributing
 
 PRs and issues are welcome!  
 Please open an issue to discuss your ideas or report bugs.
 
----
-
-## 📄 License
-
-MIT License
-
----
 
 ## 💡 Inspiration
 
