@@ -1,7 +1,13 @@
 # Eagle Eye 🦅  
+<<<<<<< HEAD
 **AI-Powered B2B SaaS for Google Review Management**
 
 ![Eagle Eye Banner](https://dummyimage.com/1200x300/222/fff&text=Eagle+Eye+SaaS+for+Google+Reviews)
+=======
+**AI-Powered B2B SaaS for Online Review Management**
+
+![Eagle Eye Banner](https://dummyimage.com/1200x300/222/fff&text=Eagle+Eye:+Your+AI+Eye+In+The+Sky)
+>>>>>>> 4b2b69441222d92f4bcc538945a5563821e1c1e4
 
 ---
 
@@ -136,7 +142,10 @@ MIT License
 ## 💡 Inspiration
 
 Built to help businesses save time, respond faster, and build better customer relationships—powered by the latest in AI.
+<<<<<<< HEAD
 
 ---
 
 ## ⭐️ Star this repo if you like it! 
+=======
+>>>>>>> 4b2b69441222d92f4bcc538945a5563821e1c1e4
