@@ -1,0 +1,31 @@
+review-intelligence/
+├── app.py                  # Main Flask application
+├── config.py               # Configuration settings
+├── requirements.txt        # Python dependencies
+├── docker-compose.yml      # For PostgreSQL and Redis
+├── services/
+│   ├── ai_service.py       # Local AI response generation
+│   ├── db_service.py       # Database operations
+│   ├── scraper.py          # Review scraping
+│   └── alert_service.py    # Twilio SMS alerts
+├── templates/              # Flask templates
+│   ├── dashboard.html
+│   ├── review_detail.html
+│   ├── settings.html
+│   └── layout.html
+├── static/                 # CSS/JS assets
+│   └── styles.css
+└── .env                    # Environment variables
+
+# Add this to document the users table for migration
+users (
+    id SERIAL PRIMARY KEY,
+    username VARCHAR(150) UNIQUE NOT NULL,
+    password_hash VARCHAR(255) NOT NULL
+)
+
+# Add this to document the response_feedback table for migration
+response_feedback (
+    review_id INTEGER PRIMARY KEY,
+    rating INTEGER NOT NULL CHECK (rating >= 1 AND rating <= 5)
+)
